@@ -53,4 +53,16 @@
 <br clear="both">
 
 <div align="center">
-  <img src="
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoBianna&layout=compact&theme=dracula&hide_border=true" height="225" alt="languages graph" /> 
+  <br><br>
+  
+  <img src="https://streak-stats.demolab.com?user=ThiagoBianna&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThiagoBianna&theme=dracula&hide_border=true&area=true" alt="contribution graph" />
+</div>
+
+###
