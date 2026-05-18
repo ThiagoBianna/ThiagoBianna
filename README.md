@@ -53,7 +53,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoBianna&layout=compact&theme=dracula&hide_border=true" height="225" alt="languages graph" /> 
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ThiagoBianna&layout=compact&theme=dracula&hide_border=true" height="225" alt="languages graph" /> 
   <br><br>
   
   <img src="https://streak-stats.demolab.com?user=ThiagoBianna&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
@@ -61,8 +61,19 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThiagoBianna&theme=dracula&hide_border=true&area=true" alt="contribution graph" />
-</div>
+## Pacman Contribution Graph
 
-###
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ThiagoBianna/ThiagoBianna/output/pacman-contribution-graph-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ThiagoBianna/ThiagoBianna/output/pacman-contribution-graph.svg"
+  />
+  <img
+    alt="pacman contribution graph"
+    src="https://raw.githubusercontent.com/ThiagoBianna/ThiagoBianna/output/pacman-contribution-graph.svg"
+  />
+</picture>
