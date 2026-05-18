@@ -53,17 +53,4 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ThiagoBianna/ThiagoBianna/languages-output/languages.svg" height="225" alt="languages graph" /> 
-  <br>
-  <img src="https://streak-stats.demolab.com?user=ThiagoBianna&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThiagoBianna/ThiagoBianna/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThiagoBianna/ThiagoBianna/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ThiagoBianna/ThiagoBianna/pacman-output/pacman-contribution-graph.svg">
-</picture>
-
-###
+  <img src="
